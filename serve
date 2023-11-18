@@ -4,4 +4,4 @@ require_once __DIR__ . '/bootstrap.php';
 
 // Create a local server
 // Command is 'php serve'
-exec('php -S localhost:8000 -t core/');
+exec('php -S localhost:8000 -t public/');

@@ -25,4 +25,3 @@ DROPBOX_TOKEN=
 SEMAPHORE_TOKEN=1bb18129463bf8decc64ce410c7b8f67
 
 FRONTEND_URL=http://pupdoctrack.cloud
-PUBLIC_URL=http://pupdoctrack.cloud
